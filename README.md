@@ -2,9 +2,9 @@
 
 🚀 DevOps enthusiast graduated in Computer Networks at Instituto Infnet, working in critical environments. I'm skilled at SysAdmin, Computer Networks, Firewalls, Virtualization, Cloud Computing, Automation and Monitoring.
 
-💫 Passionate about Technology and Music Production.
-
 🌱 I’m currently learning Kubernetes, Terraform, and Go. 
+
+💫 Passionate about Technology and Music Production.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mribeirogabriel&show_icons=true&theme=dracula)
 
