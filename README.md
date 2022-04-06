@@ -15,4 +15,4 @@
 
 - 🎵 My music stuff:
     - 📷 Instagram: [@im_aphonic](https://instagram.com/im_aphonic/)
-    - 🌐 Website: www.aphonicbeatz.com
+    - 🌐 Website: about.aphonicbeatz.com
