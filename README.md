@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning:
 - Advanced AWS architectures and cloud-native solutions.
-- Progressive web app development with modern JavaScript frameworks.
+- Software engineering and architecture principles to build better and smarter software.
 
 🛠 Tech Stack:
 - Languages & Frameworks: Python, JavaScript (NodeJS & Express), TypeScript
