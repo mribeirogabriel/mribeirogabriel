@@ -2,7 +2,7 @@
 
 🚀 About Me:
 
-🎓 I'm a DevOps enthusiast with a degree in Computer Networks from Instituto Infnet. Currently, my main areas of expertise include cloud-native solutions, computer networks, automation, and monitoring.
+🎓 I'm a DevOps enthusiast who enjoys exploring creativity by creating music, videos, and cool things from time to time. Currently, my main areas of expertise include cloud-native solutions, computer networks, automation, and monitoring.
 
 🧰 I specialize in creating robust solutions using AWS, Infrastructure as Code (IaC) practices, NodeJS + TypeScript, and Serverless to streamline and secure digital environments.
 
